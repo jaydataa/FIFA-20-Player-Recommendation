@@ -1,7 +1,7 @@
-# FIFA 23 Player Analysis
+# FIFA 20 Player Analysis
 
 ## Overview
-This project analyzes FIFA 23 player statistics, exploring attributes like overall ratings, player positions, and team performances.
+This project analyzes FIFA 20 player statistics, exploring attributes like overall ratings, player positions, and team performances.
 
 ## Features
 - Data Cleaning and Preprocessing
