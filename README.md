@@ -5,12 +5,12 @@ This project analyzes FIFA 20 player statistics, exploring attributes like overa
 
 ## Features
 - Data Cleaning and Preprocessing
-- Exploratory Data Analysis (EDA) with Visualizations
+- Exploratory Data Analysis (EDA) with Visualisations
 - Player Performance Comparisons
 - Machine Learning Predictions (if applicable)
 
 ## Results
-Include visualizations, key findings, and insights.
+Include visualisations, key findings, and insights.
 
 ## Technologies Used
 - Python (pandas, matplotlib, seaborn)
